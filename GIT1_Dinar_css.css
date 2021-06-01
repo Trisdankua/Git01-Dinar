@@ -69,6 +69,7 @@ p {
 .container {
     width: 900px;
     margin: 90px auto auto auto;
+    background-color: lightskyblue;
 }
 
 .container h2 {
